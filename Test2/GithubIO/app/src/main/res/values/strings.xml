@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GithubIO</string>
+
+    <string name="stars">Stars:</string>
+    <string name="forks">Forks:</string>
+    <string name="watchers">Watchers:</string>
+    <string name="issues">Issues:</string>
+    <string name="updated_on">Updated on: </string>
+
+    <string name="connection_error">Please switch on internet connection.</string>
+</resources>
